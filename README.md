@@ -21,4 +21,4 @@ Simply include the script in your HTML file. The script will automatically start
 
 ```html
 <script src="path/to/response-time-measurement-tool.js"></script>
-````
+```
